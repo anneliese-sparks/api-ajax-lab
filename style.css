@@ -1,0 +1,50 @@
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    display: flex;
+    background-color: white;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: inline-block;
+}
+
+div {
+    display: inline-block;
+    height: 155px;
+    width: 155px;
+    justify-content: center;
+    margin: auto;
+   
+}
+
+h1 {
+    font-size: 15px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+    background-color: black;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.img {
+    border-radius: 5px;
+    margin: 5px;
+    border: 1px solid  black;
+    text-align: center;
+    display: block;
+    margin: auto;
+    
+}
+
+a {
+    text-align: center;
+    display: block;
+    font-size: 12px;
+}
